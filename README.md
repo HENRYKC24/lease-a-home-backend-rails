@@ -1,6 +1,6 @@
 # Lease A Home
 
-A project that enables prospective lessees to lease an apartment within a specified period of time.
+A project that enables prospective lessees/users to lease an apartment for a specified period of time in a particular city.
 A lessee can see the available aprtments and interiors of the apartments.
 
 ## Built With
